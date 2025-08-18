@@ -137,5 +137,5 @@ If you have questions or concerns regarding this Privacy Policy or Terms of Use,
 - ConstruDesk complies with Google Play Developer Policies and App Store Guidelines.
 - Coins are a digital feature and not considered financial assets.
 - All purchases are final and governed by platform-specific refund policies.
-- This document should be referenced in your Google Play Console and App Store Connect submission under “Privacy Policy”.
+
 
