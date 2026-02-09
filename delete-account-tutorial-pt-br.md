@@ -16,7 +16,9 @@ Este documento descreve como os usuários podem excluir permanentemente sua cont
 ### 1. Realizar Login
 
 - O usuário realiza o login utilizando seu e-mail e senha cadastrados.
+![tela_login](https://github.com/user-attachments/assets/c1bf48f4-cf64-47b5-9b13-8160e0f467ae)
 - Após a autenticação bem-sucedida, a tela principal do aplicativo é exibida.
+![inicio_page](https://github.com/user-attachments/assets/fd33d1f9-68e8-412d-ae43-025d017afbec)
 
 ---
 
@@ -24,6 +26,7 @@ Este documento descreve como os usuários podem excluir permanentemente sua cont
 
 - No menu de navegação inferior, o usuário toca no ícone de **Perfil / Conta**.
 - Isso abre a tela **Conta & Configurações**.
+![configuracoes_page](https://github.com/user-attachments/assets/950c02d1-addc-4ab5-baee-1c2631116135)
 
 ---
 
@@ -31,8 +34,8 @@ Este documento descreve como os usuários podem excluir permanentemente sua cont
 
 - O usuário rola a tela **Conta & Configurações** até o final.
 - Um botão **vermelho**, claramente visível, com o texto **“Excluir Conta”** é exibido.
+![excluir_arrows](https://github.com/user-attachments/assets/f71e4aad-0414-4971-b4e7-b7bfb2112e19)
 - Essa opção está sempre acessível ao usuário e não fica oculta atrás de fluxos externos ou atendimento ao suporte.
-
 ---
 
 ### 4. Confirmação de Ação Irreversível
@@ -41,15 +44,16 @@ Este documento descreve como os usuários podem excluir permanentemente sua cont
 - O modal informa claramente que:
   - A ação é **permanente e irreversível**
   - **Todos os dados do usuário serão apagados permanentemente**
+![confirmar_dialog](https://github.com/user-attachments/assets/0579d89c-250c-46a0-b866-1f62e7c7b246)
 
 ---
 
 ### 5. Confirmação por Digitação de Texto
 
 - Para evitar exclusões acidentais, o usuário deve digitar manualmente o seguinte texto de confirmação:
-
-
+- "Excluir Permanentemente"
 - O botão **Excluir Conta** permanece desabilitado até que o texto seja digitado exatamente como solicitado.
+![confirmar_escrito_dialog](https://github.com/user-attachments/assets/268df6df-1887-4d29-9b58-e78463c5c34e)
 
 ---
 
